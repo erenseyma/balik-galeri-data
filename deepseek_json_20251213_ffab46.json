@@ -1,4 +1,4 @@
-// data.json (GitHub'a yükleyeceğiniz)
+
 [
   {
     "id": 1,
@@ -8,7 +8,7 @@
     "weight": "2.3",
     "date": "2024-01-15",
     "anglerName": "Mehmet Y.",
-    "photoUrl": "https://drive.google.com/thumbnail?id=1pz-KbOcQv4XvJt9y7L8n6m3q1r2s5t8u&sz=w800",
+    "photoUrl": "https://drive.google.com/thumbnail?id=1Erdw-CGLNP2RpK0oCr11-josVL1stiXq&sz=w800",
     "bait": "canlı yem",
     "location": "Boğaz",
     "likes": 12
@@ -21,7 +21,7 @@
     "weight": "0.8",
     "date": "2024-01-14",
     "anglerName": "Ahmet K.",
-    "photoUrl": "https://drive.google.com/thumbnail?id=2q3r4s5t6u7v8w9x0y1z2a3b4c5d6e7f&sz=w800",
+    "photoUrl": "https://drive.google.com/thumbnail?id=1Erdw-CGLNP2RpK0oCr11-josVL1stiXq&sz=w800",
     "bait": "sülünez",
     "location": "Çeşme",
     "likes": 8
@@ -34,7 +34,7 @@
     "weight": "4.2",
     "date": "2024-01-13",
     "anglerName": "Deniz T.",
-    "photoUrl": "https://drive.google.com/thumbnail?id=3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p&sz=w800",
+    "photoUrl": "https://drive.google.com/thumbnail?id=1Erdw-CGLNP2RpK0oCr11-josVL1stiXq&sz=w800",
     "bait": "sardalya",
     "location": "Kemer",
     "likes": 15
@@ -47,7 +47,7 @@
     "weight": "0.05",
     "date": "2024-01-12",
     "anglerName": "Ali V.",
-    "photoUrl": "https://drive.google.com/thumbnail?id=4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q&sz=w800",
+    "photoUrl": "https://drive.google.com/thumbnail?id=1Erdw-CGLNP2RpK0oCr11-josVL1stiXq&sz=w800",
     "bait": "hamsi",
     "location": "Sürmene",
     "likes": 5
@@ -60,7 +60,7 @@
     "weight": "0.4",
     "date": "2024-01-11",
     "anglerName": "Can B.",
-    "photoUrl": "https://drive.google.com/thumbnail?id=5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r&sz=w800",
+    "photoUrl": "https://drive.google.com/thumbnail?id=1Erdw-CGLNP2RpK0oCr11-josVL1stiXq&sz=w800",
     "bait": "sinek",
     "location": "Kızılcahamam",
     "likes": 3
