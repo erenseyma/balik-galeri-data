@@ -1,7 +1,7 @@
 [
   {
     "name": "LEVREK",
-    "region_name":["Marmara", "Ege", "Akdeniz", "Karadeniz"],
+    "region_name":"Marmara",
     "size": "25-70 cm",
     "bait": "Canlı sardalya, sübye, karides; yapay yemler (rapala, jig, popper, soft bait)",
     "type": "Deniz",
@@ -3753,3 +3753,4 @@
   }
 
 ]
+
