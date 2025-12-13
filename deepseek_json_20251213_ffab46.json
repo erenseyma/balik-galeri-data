@@ -64,5 +64,18 @@
     "bait": "sinek",
     "location": "Kızılcahamam",
     "likes": 3
+  },
+  {
+    "id": 6,
+    "city": "ankara",
+    "fishType": "kayabaligi",
+    "size": "28",
+    "weight": "0.4",
+    "date": "2024-01-11",
+    "anglerName": "Can B.",
+    "photoUrl": "https://drive.google.com/thumbnail?id=1Erdw-CGLNP2RpK0oCr11-josVL1stiXq&sz=w800",
+    "bait": "sinek",
+    "location": "Kızılcahamam",
+    "likes": 3
   }
 ]
