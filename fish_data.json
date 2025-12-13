@@ -1,7 +1,7 @@
 [
   {
     "name": "LEVREK",
-    "region_name": "MARMARA",
+    "region_name":["Marmara", "Ege", "Akdeniz", "Karadeniz"],
     "size": "25-70 cm",
     "bait": "Canlı sardalya, sübye, karides; yapay yemler (rapala, jig, popper, soft bait)",
     "type": "Deniz",
@@ -3751,4 +3751,5 @@
     "recipe_tips": "Eti yağsız ve lezzetlidir\nMangalda pişirmek en iyisidir",
     "warning": "ÇOK BÜYÜK VE GÜÇLÜDÜR\nAVI ÇOK TECRÜBE GEREKTİRİR\nGECE AVINA DİKKAT EDİN"
   }
+
 ]
