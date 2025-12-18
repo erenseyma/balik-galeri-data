@@ -116,7 +116,7 @@
   "size": "10-40 cm (gövde boyu, tentaküller hariç)",
   "bait": "Kalamar jig (sepya şeklinde, fosforlu/turuncu/pembe renkler), canlı veya ölü balık, ahtapot dilimi, sübye, karides",
   "type": "Deniz",
-  "min_size": ,
+  "min_size":"",
   "daily_limit": "5 kg", 
   "best_time": "Gece (özellikle ayın olmadığı karanlık geceler)",
   "best_season": "Eylül - Mayıs. Su sıcaklığı 15-20°C arası ideal. Ekim-Kasım en verimli dönem.",
@@ -3273,6 +3273,7 @@
   "warning": "Sürü halinde gezen göçmen bir balıktır. Hassas popülasyonu nedeniyle yasal minimum boy (20 cm) ve amatör av limitlerine titizlikle uymak neslinin sürdürülebilirliği için kritiktir. Aşırı ve yasa dışı avcılığa karşı duyarlı olun."
  }
 ]
+
 
 
 
