@@ -1,59 +1,5 @@
 [
- {
-  "name": "LEVREK",
-  "region_name": "MARMARA",
-  "size": "25-70 cm",
-  "bait": "Sığ Dalar (Shallow Diver): 10-20 gr, 30-90 cm derinlik.\nCanlı Yem: Sardalya, sübye.\nAlternatif: Karides.",
-  "type": "Deniz",
-  "min_size": 25,
-  "daily_limit": "kg",
-  "best_time": "Şafak, Alacakaranlık, Gece",
-  "best_season": "Eylül ayından başlayarak Mart sonuna kadar.",
-  "technique": "At-Çek (Spinning): En yaygın ve etkili yöntemdir.\nJigging: Derin bölgelerde uygulanır.\nCanlı Yemle Uzun Olta: Kıyıda etkilidir.",
-  "description": "Marmara’da av, her mevsim aynı değildir. Gerçek macera, eylül yağmurlarıyla başlar ve mart rüzgarlarına kadar sürer. Sabahın ilk ışıklarında veya güneş ufka yaslandığında, onunla buluşma şansınız en yüksektir. Lodos poyrazla kavga ederken, deniz köpük köpük kabarırken, tam da siz evde oturayım derken, levrek kıyıya en yakın yerindedir.\n\n🎣 İnce Sanat: At-Çek (Spinning)\nBu, bir meditasyon, bir strateji oyunudur. Doğru ekipman, avın yarısıdır:\n\nOlta Makinesi: 2500-3000 numara, yavaş ritimli (5:3:1 gibi) bir makine, hem hafifliği hem de gücü size sunar.\n\nKamış: Hassas, ancak ani darbelere dayanıklı bir \"spinning\" kamışı tercih edilmelidir.\n\nMisina & Lider: 0.16-0.20 mm arası ince bir ana misina, şeffaflığıyla görünmez bir florokarbon lider ile birleşir. Bu ikili, hem balığı kandırır hem de Marmara’nın yosunlarına karşı savaşır.\n\nSahte Yemler: Gün ışığında gümüş, yeşil sırtlı sahteler; alaca karanlıkta koyu lacivert veya kırmızı kafalı olanlar; gece ise fosforlu modeller gözde olacaktır. 10-28 gram arası, mevcut dalga ve akıntıya göre seçilir.\n\n✨ Usta İpuçları\n\nÇekim hızınızı değiştirin. Bazen hızlı, bansa vızzz gibi çekin. Bırakın sahte balık suda sendeleyerek, yaralı bir balık gibi görünsün. Bu, levreğin içgüdüsüne hitap eder.\n\nAv sırasında \"pause\" (duraklama) yapın. Sahteyi birkaç saniye bırakın, sonra hafifçe hareket ettirin. Bu, dikkatini çeker.\n\nYeminizin dibe değmesine izin verin, sonra yavaşça sarmaya başlayın. Levrek, genellikle tam o ilk kaldırma anında vurur.\n\nMarmara’da levrek avı, bilgiyle sezginin, sabırla anlık refleksin kesiştiği bir danstır. Doğru ekipman, doğru zaman ve sessiz bir azimle, o gümüş avcıyı yakaladığınız an, tüm emeğinize değecektir.",
-  "danger_level": "low",
-  "habitat": "Marmara levreği, kıyıya yakın, kendisine korunak ve av avantajı sağlayan bölgelerde bulunur. Kaya oyukları ve kayalık dipleri: Pusu kurmak için idealdir.\n\nRıhtım, iskele ayakları ve mendirek içleri: Yapıların etrafındaki gölgeli ve besin açısından zengin alanlar.\n\nDere ve nehir ağızları: Tatlı su ile deniz suyunun karıştığı, berrak olmayan (bulanık) acı su bölgeleri levreğin en sevdiği yerlerdir.\n\nKumluk ve kayalığın birleştiği bölgeler: Levrek hem saklanma hem de avlanma imkanı bulur.",
-  "weight": "1-8 kg",
-  "hook_size": "1\/0 - 5\/0 (yeme ve tekniğe göre)",
-  "line_thickness": "0.25 - 0.35 mm",
-  "fight_power": "strong",
-  "difficulty": "medium",
-  "is_protected": false,
-  "recipe_name": "Izgara Levrek",
-  "recipe_ingredients": "1 adet temizlenmiş levrek, 2 limon, 3-4 diş sarımsak, taze kekik veya dereotu, zeytinyağı, tuz, karabiber, pul biber (isteğe bağlı).",
-  "recipe_steps": "Fırını 200°C'ye ısıtın.\n\nBalığın her iki yanına çapraz bıçak çizikleri atın. İçine ve dışına tuz, karabiber serpin.\n\nBir kasede ince dilimlenmiş limonlar, ezilmiş sarımsak, ince kıyılmış taze otlar, biraz zeytinyağı ve pul biberi karıştırın.\n\nBu karışımın bir kısmını balığın içine, kalanını üzerine yayın ve çiziklere yerleştirin. Üzerine limon dilimleri dizin.\n\nYağlı kağıt serili fırın tepsisine yerleştirip, 25-30 dakika veya üzeri nar gibi kızarana kadar pişirin.\n\nYanına sade yeşil salata veya közlenmiş sebzelerle servis yapın.",
-  "recipe_time": " 25-30 dakika",
-  "recipe_tips": "Önce Kurula: Pişirmeden önce içini ve dışını kağıt havluyla iyice kurula. Cırt cırt olmasın.\n\nMarine Et: Zeytinyağı, limon suyu, tuz, kekik, sarımsak karışımında 30 dakika bekleterek marine et. Lezzeti katla.\n\nIsıt Sonra Koy: Izgara veya fırını önceden iyice ısıt. Soğuk yüzeye balık yapışır.\n\nSabret Çevirirken: Izgarada koyduktan sonra ilk 4-5 dakika dokunma. Yapışmadan cırt cırt olsun.\n\nKontrol Et: Eti, en kalın yerinden bıçakla kontrol et. Kolayca ayrılıyorsa ve mat beyazsa pişmiştir.",
-  "warning": "Levrek avında balığın saldırısından çok, kancadan kurtulma anı kritiktir. İlk hamleyi hissettiğinizde, çok erken veya çok geç hareket etmemek çok önemlidir.\n\nEn kritik an: Balık, sahteyi ağzına aldıktan sonra genellikle hemen geri dönüp kaçar. Bu sırada misinızda hafif bir gevşeme hissedebilirsiniz.\n\nDoğru hamle: Bu gevşemeyi hisseder hissetmez, kısa ve sert bir hareketle (hookset) kancayı oturtun. Çok erken yaparsanız yemi çekersiniz, çok geç kalırsanız balık kancayı atar."
- },
- {
-  "name": "ÇİPURA",
-  "region_name": "MARMARA",
-  "size": "20-45 cm",
-  "bait": "Canlı: Deniz solucanı (kurdu), midye, sülünez.\nYapay: 1-3 numara metal kaşık, küçük silikon yemler.",
-  "type": "Deniz",
-  "min_size": 20,
-  "daily_limit": "kg",
-  "best_time": "Şafak ve gün batımı; dalgasız, durgun havalar.",
-  "best_season": "Eylül - Nisan (soğuk aylarda kıyıya yaklaşır).",
-  "technique": "Dip oltacılığı, şamandıralı (float) takım, hafif spinning.",
-  "description": " Kısa Av İpuçları\nİnce Takım: Çipura ürkek bir balıktır. Mümkün olan en ince misina ve küçük iğne kullanın.\n\nSessizlik: Sürüyü ürkütmemek için kıyıda sessiz olun ve gölgenizi suya düşürmemeye çalışın.\n\nYemi Oynat: Dip oltasında, yemi hafifçe hareket ettirerek çipuranın dikkatini çekebilirsiniz.\n\nAni Vuruş: Çipuranın vuruşu genellikle hafif ancak çok keskindir. Misinada bir gerginlik hissettiğinizde hafifçe çekip iğneyi oturtun.",
-  "danger_level": "low",
-  "habitat": "Kıyıdaki çamurlu kumlu dipler, lagünler, deniz çayırları, liman içleri.",
-  "weight": "0.2-2 kg",
-  "hook_size": "6, 8, 10 numara (küçük ağız yapısına uygun).",
-  "line_thickness": "0.20 - 0.30 mm",
-  "fight_power": "medium",
-  "difficulty": "easy",
-  "is_protected": false,
-  "ban_period": "Genel sportif av yasağı: 15 Nisan - 1 Eylül (tür bazlı değişebilir, kontrol edin).",
-  "recipe_name": "Tuzda Çipura",
-  "recipe_ingredients": "1 adet iri çipura, \n2 kg kaya tuzu, \n2 yumurta akı, \nİsteğe bağlı iç harcı için dereotu, \nmaydanoz, \nlimon dilimi",
-  "recipe_steps": "1. Balığı temizleyin, içine dereotu ve limon dilimi koyun. \n2. Yumurta akları ile tuzu karıştırıp macun kıvamına getirin. \n3. Balığın her tarafını bu tuzla iyice kaplayın. \n4. Önceden 200°C'de ısıtılmış fırında 30-40 dakika pişirin. \n5. Tuz kabuğunu kırarak balığı açın ve fileto çıkararak servis yapın.",
-  "recipe_time": "50 dakika",
-  "recipe_tips": "Balığın pullarını temizlemeyin, tuz kabuğu onları da çıkaracaktır. Balığın fazla pişmemesine dikkat edin.",
-  "warning": "Yasal boyun altındaki (20 cm) çipuraları kesinlikle tutmayın, gelecek nesiller için salın. Avlanmadan önce, Tarım ve Orman Bakanlığı'nın güncel amatör balıkçılık tebliğini kontrol edin. Minimum boy, günlük limit ve yasak dönemler değişebilir. Doğru bilgi ve belge olmadan avlanmayın."
- },
+
  {
   "name": "LÜFER",
   "region_name": "MARMARA",
@@ -3273,6 +3219,7 @@
   "warning": "Sürü halinde gezen göçmen bir balıktır. Hassas popülasyonu nedeniyle yasal minimum boy (20 cm) ve amatör av limitlerine titizlikle uymak neslinin sürdürülebilirliği için kritiktir. Aşırı ve yasa dışı avcılığa karşı duyarlı olun."
  }
 ]
+
 
 
 
